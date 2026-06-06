@@ -22,3 +22,8 @@ Permite explorar un conjunto de datos de anuncios de venta de vehículos usados 
 - Render
 - GitHub
 
+## Aplicación desplegada
+
+La aplicación web está disponible en Render:
+
+https://proyecto-sprint-7-91up.onrender.com
